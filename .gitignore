@@ -16,6 +16,6 @@
 
 # CakePHP 2
 
-/app/tmp/*
+/app/tmp/*zapos
 /app/Config/core.php
 
