@@ -9,7 +9,7 @@
 !/tmp/cache/persistent/empty
 /tmp/cache/views/*
 !/tmp/cache/views/
-/tmp/session/*
+
 
 
 /logs/*
